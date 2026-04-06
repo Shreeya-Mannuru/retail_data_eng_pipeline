@@ -1,0 +1,101 @@
+user_id,first_name,last_name,email,gender,age,city,state
+1,Emily,Johnson,emily.johnson@x.dummyjson.com,female,29,Phoenix,Mississippi
+2,Michael,Williams,michael.williams@x.dummyjson.com,male,36,Houston,Alabama
+3,Sophia,Brown,sophia.brown@x.dummyjson.com,female,43,Washington,Alabama
+4,James,Davis,james.davis@x.dummyjson.com,male,46,Seattle,Pennsylvania
+5,Emma,Miller,emma.miller@x.dummyjson.com,female,31,Jacksonville,Colorado
+6,Olivia,Wilson,olivia.wilson@x.dummyjson.com,female,23,Fort Worth,Tennessee
+7,Alexander,Jones,alexander.jones@x.dummyjson.com,male,39,Indianapolis,Delaware
+8,Ava,Taylor,ava.taylor@x.dummyjson.com,female,28,Fort Worth,Rhode Island
+9,Ethan,Martinez,ethan.martinez@x.dummyjson.com,male,34,San Antonio,Louisiana
+10,Isabella,Anderson,isabella.anderson@x.dummyjson.com,female,32,New York,Utah
+11,Liam,Garcia,liam.garcia@x.dummyjson.com,male,30,Denver,South Dakota
+12,Mia,Rodriguez,mia.rodriguez@x.dummyjson.com,female,25,Jacksonville,West Virginia
+13,Noah,Hernandez,noah.hernandez@x.dummyjson.com,male,41,New York,North Dakota
+14,Charlotte,Lopez,charlotte.lopez@x.dummyjson.com,female,37,Columbus,Ohio
+15,William,Gonzalez,william.gonzalez@x.dummyjson.com,male,33,San Jose,Utah
+16,Avery,Perez,avery.perez@x.dummyjson.com,female,26,Columbus,Iowa
+17,Evelyn,Sanchez,evelyn.sanchez@x.dummyjson.com,female,38,San Diego,Wyoming
+18,Logan,Torres,logan.torres@x.dummyjson.com,male,32,Columbus,Arkansas
+19,Abigail,Rivera,abigail.rivera@x.dummyjson.com,female,29,Chicago,New Mexico
+20,Jackson,Evans,jackson.evans@x.dummyjson.com,male,35,New York,Arkansas
+21,Madison,Collins,madison.collins@x.dummyjson.com,female,27,Philadelphia,New Jersey
+22,Elijah,Stewart,elijah.stewart@x.dummyjson.com,male,34,Columbus,Illinois
+23,Chloe,Morales,chloe.morales@x.dummyjson.com,female,40,Dallas,New Jersey
+24,Mateo,Nguyen,mateo.nguyen@x.dummyjson.com,male,31,Columbus,Missouri
+25,Harper,Kelly,harper.kelly@x.dummyjson.com,female,28,Philadelphia,New York
+26,Evelyn,Gonzalez,evelyn.gonzalez@x.dummyjson.com,female,36,Dallas,Maine
+27,Daniel,Cook,daniel.cook@x.dummyjson.com,male,42,Los Angeles,Nevada
+28,Lily,Lee,lily.lee@x.dummyjson.com,female,30,Phoenix,Massachusetts
+29,Henry,Hill,henry.hill@x.dummyjson.com,male,39,Indianapolis,Delaware
+30,Addison,Wright,addison.wright@x.dummyjson.com,female,33,San Francisco,Montana
+31,Gabriel,Adams,gabriel.adams@x.dummyjson.com,male,37,Charlotte,Indiana
+32,Natalie,Harris,natalie.harris@x.dummyjson.com,female,29,San Jose,Mississippi
+33,Carter,Baker,carter.baker@x.dummyjson.com,male,32,Denver,Oregon
+34,Sofia,Mitchell,sofia.mitchell@x.dummyjson.com,female,26,San Francisco,Oregon
+35,Jack,Ward,jack.ward@x.dummyjson.com,male,30,Phoenix,Idaho
+36,Harper,Turner,harper.turner@x.dummyjson.com,female,34,Dallas,Utah
+37,Mason,Parker,mason.parker@x.dummyjson.com,male,35,Seattle,Louisiana
+38,Aria,Roberts,aria.roberts@x.dummyjson.com,female,27,Seattle,Rhode Island
+39,Lucas,Gray,lucas.gray@x.dummyjson.com,male,31,Houston,Wisconsin
+40,Ella,Adams,ella.adams@x.dummyjson.com,female,28,Washington,Utah
+41,Evan,Reed,evan.reed@x.dummyjson.com,male,33,San Antonio,North Carolina
+42,Avery,Carter,avery.carter@x.dummyjson.com,female,29,San Diego,West Virginia
+43,Benjamin,Foster,benjamin.foster@x.dummyjson.com,male,35,San Diego,Delaware
+44,Scarlett,Wright,scarlett.wright@x.dummyjson.com,female,27,Phoenix,Vermont
+45,Lincoln,Kelly,lincoln.kelly@x.dummyjson.com,male,31,Columbus,Montana
+46,Hannah,Robinson,hannah.robinson@x.dummyjson.com,female,30,Phoenix,West Virginia
+47,Nicholas,Bailey,nicholas.bailey@x.dummyjson.com,male,36,Chicago,Rhode Island
+48,Luna,Russell,luna.russell@x.dummyjson.com,female,28,San Diego,Colorado
+49,Jacob,Cooper,jacob.cooper@x.dummyjson.com,male,32,Columbus,Montana
+50,Stella,Hughes,stella.hughes@x.dummyjson.com,female,34,Jacksonville,New Hampshire
+51,Eli,Bennett,eli.bennett@x.dummyjson.com,male,30,Jacksonville,Idaho
+52,Grace,Perry,grace.perry@x.dummyjson.com,female,27,Seattle,Pennsylvania
+53,Lucas,Gordon,lucas.gordon@x.dummyjson.com,male,36,Los Angeles,Rhode Island
+54,Ava,Harrison,ava.harrison@x.dummyjson.com,female,29,San Antonio,Vermont
+55,Owen,Fisher,owen.fisher@x.dummyjson.com,male,32,Chicago,Nevada
+56,Samantha,Howard,samantha.howard@x.dummyjson.com,female,31,Austin,Alaska
+57,Nathan,Dixon,nathan.dixon@x.dummyjson.com,male,35,Columbus,Utah
+58,Bella,Grant,bella.grant@x.dummyjson.com,female,28,Dallas,Mississippi
+59,Ethan,Fletcher,ethan.fletcher@x.dummyjson.com,male,34,Dallas,Arkansas
+60,Lillian,Simmons,lillian.simmons@x.dummyjson.com,female,33,Phoenix,Minnesota
+61,Mason,Pearson,mason.pearson@x.dummyjson.com,male,29,Phoenix,Idaho
+62,Leah,Henderson,leah.henderson@x.dummyjson.com,female,27,Austin,Wyoming
+63,Logan,Lawson,logan.lawson@x.dummyjson.com,male,34,Chicago,Minnesota
+64,Avery,Barnes,avery.barnes@x.dummyjson.com,female,30,Philadelphia,Connecticut
+65,Caleb,Perkins,caleb.perkins@x.dummyjson.com,male,31,Los Angeles,South Carolina
+66,Aria,Ferguson,aria.ferguson@x.dummyjson.com,female,28,San Diego,Wyoming
+67,Gabriel,Hayes,gabriel.hayes@x.dummyjson.com,male,35,San Jose,Minnesota
+68,Layla,Sullivan,layla.sullivan@x.dummyjson.com,female,26,Denver,Arizona
+69,Christopher,West,christopher.west@x.dummyjson.com,male,32,Denver,Pennsylvania
+70,Zoe,Nicholson,zoe.nicholson@x.dummyjson.com,female,33,Jacksonville,Kansas
+71,Nolan,Bryant,nolan.bryant@x.dummyjson.com,male,30,Jacksonville,Nevada
+72,Victoria,McDonald,victoria.mcdonald@x.dummyjson.com,female,28,Austin,Missouri
+73,Max,Russell,max.russell@x.dummyjson.com,male,35,Chicago,Oklahoma
+74,Penelope,Harper,penelope.harper@x.dummyjson.com,female,29,Charlotte,Pennsylvania
+75,Ryan,Graham,ryan.graham@x.dummyjson.com,male,32,San Antonio,Tennessee
+76,Madeline,Simpson,madeline.simpson@x.dummyjson.com,female,27,Los Angeles,New Jersey
+77,Jonathan,Pierce,jonathan.pierce@x.dummyjson.com,male,34,San Diego,Ohio
+78,Eleanor,Tyler,eleanor.tyler@x.dummyjson.com,female,31,San Antonio,New Hampshire
+79,Isaac,Lawrence,isaac.lawrence@x.dummyjson.com,male,33,Austin,North Dakota
+80,Hazel,Gardner,hazel.gardner@x.dummyjson.com,female,28,New York,Kentucky
+81,Austin,Hudson,austin.hudson@x.dummyjson.com,male,30,Los Angeles,Maryland
+82,Lillian,Bishop,lillian.bishop@x.dummyjson.com,female,27,Jacksonville,Minnesota
+83,Dylan,Wells,dylan.wells@x.dummyjson.com,male,35,Philadelphia,West Virginia
+84,Aaliyah,Hanson,aaliyah.hanson@x.dummyjson.com,female,29,Philadelphia,North Dakota
+85,Cameron,Burke,cameron.burke@x.dummyjson.com,male,32,Denver,South Dakota
+86,Nora,Mills,nora.mills@x.dummyjson.com,female,27,San Jose,Kansas
+87,Hunter,Gordon,hunter.gordon@x.dummyjson.com,male,34,Charlotte,Florida
+88,Aubrey,Wagner,aubrey.wagner@x.dummyjson.com,female,31,Phoenix,North Carolina
+89,Brayden,Fleming,brayden.fleming@x.dummyjson.com,male,33,Jacksonville,Arkansas
+90,Scarlett,Bowman,scarlett.bowman@x.dummyjson.com,female,28,New York,New Jersey
+91,Levi,Hicks,levi.hicks@x.dummyjson.com,male,30,Phoenix,West Virginia
+92,Autumn,Gomez,autumn.gomez@x.dummyjson.com,female,27,Dallas,Illinois
+93,Julian,Newton,julian.newton@x.dummyjson.com,male,35,Fort Worth,Iowa
+94,Ruby,Andrews,ruby.andrews@x.dummyjson.com,female,29,Dallas,Texas
+95,Miles,Stevenson,miles.stevenson@x.dummyjson.com,male,32,Charlotte,Montana
+96,Aurora,Lawson,aurora.lawson@x.dummyjson.com,female,27,Dallas,Minnesota
+97,Oscar,Powers,oscar.powers@x.dummyjson.com,male,34,Charlotte,Vermont
+98,Clara,Berry,clara.berry@x.dummyjson.com,female,31,Seattle,Montana
+99,Gavin,Stanley,gavin.stanley@x.dummyjson.com,male,33,Houston,Mississippi
+100,Lila,Hudson,lila.hudson@x.dummyjson.com,female,28,Chicago,Nevada

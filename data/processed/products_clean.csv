@@ -1,0 +1,101 @@
+product_id,title,category,price,stock,rating,brand
+1,Essence Mascara Lash Princess,beauty,9.99,99,2.56,Essence
+2,Eyeshadow Palette with Mirror,beauty,19.99,34,2.86,Glamour Beauty
+3,Powder Canister,beauty,14.99,89,4.64,Velvet Touch
+4,Red Lipstick,beauty,12.99,91,4.36,Chic Cosmetics
+5,Red Nail Polish,beauty,8.99,79,4.32,Nail Couture
+6,Calvin Klein CK One,fragrances,49.99,29,4.37,Calvin Klein
+7,Chanel Coco Noir Eau De,fragrances,129.99,58,4.26,Chanel
+8,Dior J'adore,fragrances,89.99,98,3.8,Dior
+9,Dolce Shine Eau de,fragrances,69.99,4,3.96,Dolce & Gabbana
+10,Gucci Bloom Eau de,fragrances,79.99,91,2.74,Gucci
+11,Annibale Colombo Bed,furniture,1899.99,88,4.77,Annibale Colombo
+12,Annibale Colombo Sofa,furniture,2499.99,60,3.92,Annibale Colombo
+13,Bedside Table African Cherry,furniture,299.99,64,2.87,Furniture Co.
+14,Knoll Saarinen Executive Conference Chair,furniture,499.99,26,4.88,Knoll
+15,Wooden Bathroom Sink With Mirror,furniture,799.99,7,3.59,Bath Trends
+16,Apple,groceries,1.99,8,4.19,
+17,Beef Steak,groceries,12.99,86,4.47,
+18,Cat Food,groceries,8.99,46,3.13,
+19,Chicken Meat,groceries,9.99,97,3.19,
+20,Cooking Oil,groceries,4.99,10,4.8,
+21,Cucumber,groceries,1.49,84,4.07,
+22,Dog Food,groceries,10.99,71,4.55,
+23,Eggs,groceries,2.99,9,2.53,
+24,Fish Steak,groceries,14.99,74,3.78,
+25,Green Bell Pepper,groceries,1.29,33,3.25,
+26,Green Chili Pepper,groceries,0.99,3,3.66,
+27,Honey Jar,groceries,6.99,34,3.97,
+28,Ice Cream,groceries,5.49,27,3.39,
+29,Juice,groceries,3.99,50,3.94,
+30,Kiwi,groceries,2.49,99,4.93,
+31,Lemon,groceries,0.79,31,3.53,
+32,Milk,groceries,3.49,27,2.61,
+33,Mulberry,groceries,4.99,99,4.95,
+34,Nescafe Coffee,groceries,7.99,57,4.82,
+35,Potatoes,groceries,2.29,13,4.81,
+36,Protein Powder,groceries,19.99,80,4.18,
+37,Red Onions,groceries,1.99,82,4.2,
+38,Rice,groceries,5.99,59,3.18,
+39,Soft Drinks,groceries,1.99,53,4.75,
+40,Strawberry,groceries,3.99,46,3.08,
+41,Tissue Paper Box,groceries,2.49,86,2.69,
+42,Water,groceries,0.99,53,4.96,
+43,Decoration Swing,home-decoration,59.99,47,3.16,
+44,Family Tree Photo Frame,home-decoration,29.99,77,4.53,
+45,House Showpiece Plant,home-decoration,39.99,28,4.67,
+46,Plant Pot,home-decoration,14.99,59,3.01,
+47,Table Lamp,home-decoration,49.99,9,3.55,
+48,Bamboo Spatula,kitchen-accessories,7.99,37,3.27,
+49,Black Aluminium Cup,kitchen-accessories,5.99,75,4.46,
+50,Black Whisk,kitchen-accessories,9.99,73,3.9,
+51,Boxed Blender,kitchen-accessories,39.99,9,4.56,
+52,Carbon Steel Wok,kitchen-accessories,29.99,40,4.05,
+53,Chopping Board,kitchen-accessories,12.99,14,3.7,
+54,Citrus Squeezer Yellow,kitchen-accessories,8.99,22,4.63,
+55,Egg Slicer,kitchen-accessories,6.99,40,3.09,
+56,Electric Stove,kitchen-accessories,49.99,21,4.11,
+57,Fine Mesh Strainer,kitchen-accessories,9.99,85,3.04,
+58,Fork,kitchen-accessories,3.99,7,3.11,
+59,Glass,kitchen-accessories,4.99,46,4.02,
+60,Grater Black,kitchen-accessories,10.99,84,3.21,
+61,Hand Blender,kitchen-accessories,34.99,84,3.86,
+62,Ice Cube Tray,kitchen-accessories,5.99,13,4.71,
+63,Kitchen Sieve,kitchen-accessories,7.99,68,3.09,
+64,Knife,kitchen-accessories,14.99,7,3.26,
+65,Lunch Box,kitchen-accessories,12.99,94,4.93,
+66,Microwave Oven,kitchen-accessories,89.99,59,4.82,
+67,Mug Tree Stand,kitchen-accessories,15.99,88,2.64,
+68,Pan,kitchen-accessories,24.99,90,2.79,
+69,Plate,kitchen-accessories,3.99,66,3.65,
+70,Red Tongs,kitchen-accessories,6.99,82,4.42,
+71,Silver Pot With Glass Cap,kitchen-accessories,39.99,40,3.22,
+72,Slotted Turner,kitchen-accessories,8.99,88,3.4,
+73,Spice Rack,kitchen-accessories,19.99,79,4.87,
+74,Spoon,kitchen-accessories,4.99,59,4.03,
+75,Tray,kitchen-accessories,16.99,71,4.62,
+76,Wooden Rolling Pin,kitchen-accessories,11.99,80,2.92,
+77,Yellow Peeler,kitchen-accessories,5.99,35,4.24,
+78,Apple MacBook Pro 14 Inch Space Grey,laptops,1999.99,24,3.65,Apple
+79,Asus Zenbook Pro Dual Screen Laptop,laptops,1799.99,45,3.95,Asus
+80,Huawei Matebook X Pro,laptops,1399.99,75,4.98,Huawei
+81,Lenovo Yoga 920,laptops,1099.99,40,2.86,Lenovo
+82,New DELL XPS 13 9300 Laptop,laptops,1499.99,74,2.67,Dell
+83,Blue & Black Check Shirt,mens-shirts,29.99,38,3.64,Fashion Trends
+84,Gigabyte Aorus Men Tshirt,mens-shirts,24.99,90,3.18,Gigabyte
+85,Man Plaid Shirt,mens-shirts,34.99,82,3.46,Classic Wear
+86,Man Short Sleeve Shirt,mens-shirts,19.99,2,2.9,Casual Comfort
+87,Men Check Shirt,mens-shirts,27.99,95,2.72,Urban Chic
+88,Nike Air Jordan 1 Red And Black,mens-shoes,149.99,7,4.77,Nike
+89,Nike Baseball Cleats,mens-shoes,79.99,12,3.88,Nike
+90,Puma Future Rider Trainers,mens-shoes,89.99,90,4.9,Puma
+91,Sports Sneakers Off White & Red,mens-shoes,119.99,17,4.77,Off White
+92,Sports Sneakers Off White Red,mens-shoes,109.99,62,4.69,Off White
+93,Brown Leather Belt Watch,mens-watches,89.99,32,4.19,Fashion Timepieces
+94,Longines Master Collection,mens-watches,1499.99,100,3.87,Longines
+95,Rolex Cellini Date Black Dial,mens-watches,8999.99,40,4.97,Rolex
+96,Rolex Cellini Moonphase,mens-watches,12999.99,36,2.58,Rolex
+97,Rolex Datejust,mens-watches,10999.99,86,3.66,Rolex
+98,Rolex Submariner Watch,mens-watches,13999.99,55,2.69,Rolex
+99,Amazon Echo Plus,mobile-accessories,99.99,61,4.99,Amazon
+100,Apple Airpods,mobile-accessories,129.99,67,4.15,Apple
