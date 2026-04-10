@@ -6,7 +6,7 @@ An end-to-end data engineering pipeline that extracts retail data from a public 
 
 ## Architecture
 
-![Pipeline Architecture](architecture_diagram.png)
+![Pipeline Architecture](retail_pipeline_architecture.svg)
 
 **Pipeline flow:**
 ```
